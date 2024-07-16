@@ -1,5 +1,11 @@
 # Frontend Mentor - Loopstudios landing page
 
+Student Number 041052185
+Name Rania Allate 
+
+Name of Challenge ; Loopstudios landing page
+
+
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
